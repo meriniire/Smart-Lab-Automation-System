@@ -358,7 +358,7 @@ if "user_role" not in st.session_state:
 
 # ========== SIDEBAR NAVIGATION ==========
 with st.sidebar:
-    st.markdown("### 🔬 Lab Automation")
+    st.markdown("### 🔬 Smart Lab Automation")
     st.markdown("### System")
     st.markdown("---")
     
